@@ -64,6 +64,8 @@ I specialize in creating a single-page application (SPA) using React for the int
 
 ## Github Stats  
 
+<br/>  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark)](https://git.io/streak-stats)
 
 <br>
