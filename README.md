@@ -26,7 +26,7 @@ I specialize in creating a single-page application (SPA) using React for the int
 ## Languages and Tools    
 <table><tr><td valign="top" width="100%">
 
-🔥 Frontend - 
+- 🔥 Frontend - 
 [JavaScript](https://www.javascript.com/)
 [TypeScript](https://www.typescriptlang.org/)
 [React](https://reactjs.org/)
@@ -39,7 +39,7 @@ I specialize in creating a single-page application (SPA) using React for the int
 [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)  
   
 
-📝 Backend - 
+- 📝 Backend - 
 [Node.js](https://nodejs.org/en/)
 [Express](https://expressjs.com/)
 [MongoDB](https://www.mongodb.com/)
@@ -48,7 +48,7 @@ I specialize in creating a single-page application (SPA) using React for the int
 [Git](https://git-scm.com/)  
   
 
- 🛠️ Tools - 
+- 🛠️ Tools - 
 [Postman](https://www.postman.com/)
 [WebStorm](https://www.jetbrains.com/ru-ru/webstorm/)
 [Photoshop](https://www.adobe.com/ru/products/photoshop.html)
