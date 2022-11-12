@@ -23,7 +23,7 @@ I specialize in creating a single-page application (SPA) using React for the int
 <br/>  
 
 
-## Rapidfire  
+## Languages and Tools    
 <table><tr><td valign="top" width="50%">
 
 🔥 Frontend - 
@@ -65,14 +65,8 @@ I specialize in creating a single-page application (SPA) using React for the int
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Languages and Tools  
-  
-  
-
-<br/>  
+<br/>
+ 
 
 
 ## Github Stats  
