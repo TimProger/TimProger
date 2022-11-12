@@ -84,7 +84,5 @@ I specialize in creating a single-page application (SPA) using React for the int
 ![Profile views counter](https://komarev.com/ghpvc/?username=TimProger&&style=flat-square)  
   
 
-<br/>  
-
 
 ----
