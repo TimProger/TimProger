@@ -24,7 +24,7 @@ I specialize in creating a single-page application (SPA) using React for the int
 
 
 ## Languages and Tools    
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="80%">
 
 🔥 Frontend - 
 [JavaScript](https://www.javascript.com/)
@@ -54,13 +54,6 @@ I specialize in creating a single-page application (SPA) using React for the int
 [Photoshop](https://www.adobe.com/ru/products/photoshop.html)
 [Illustrator](https://www.adobe.com/ru/products/illustrator.html)
 [Figma](https://www.figma.com/)  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
