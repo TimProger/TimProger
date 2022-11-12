@@ -64,20 +64,22 @@ I specialize in creating a single-page application (SPA) using React for the int
 
 ## Github Stats  
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&hide_border=true&layout=compact&theme=dark" align="left"  style="width: 100%" />
-    </td>
-  </tr>
-</table>  
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&hide_border=true&layout=compact&theme=dark" align="left"  style="width: 100%" />
+      </td>
+    </tr>
+  </table>  
+</div>
 
   
 
