@@ -29,13 +29,10 @@ I specialize in creating a single-page application (SPA) using React for the int
 - 🔭 I’m currently working on a big and cool secret project!  
   
 
-- 🌱 I’m currently learning how to build apps with Next.js and GraphQL on backend.  
+- 🌱 At the moment I'm learning how to build apps with Next.js and GraphQL on backend.  
   
 
 - ❓ Ask me about anything related to React or HTML/CSS.  
-  
-
-- ⚡ Fun fact: I keep night theme swithed on at all times  
 
 
 </td><td valign="top" width="50%">
@@ -84,23 +81,17 @@ I specialize in creating a single-page application (SPA) using React for the int
 
 
 ## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-<div align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
 <br/>  
-<img src="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 50%" />
-<br/>  
-</div>  
-
-
-
-<br/>  
-
-## Most used languages  
-<div align="center">  
-<br/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&hide_border=true&layout=compact&theme=dark" align="left" style="width: 50%" />
-<br/>
-</div>  
 
   
 
