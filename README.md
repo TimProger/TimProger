@@ -84,21 +84,15 @@ I specialize in creating a single-page application (SPA) using React for the int
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
 
 <br/>  
 <img src="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
 
-
+## Most used languages  
 <br/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
 
   
 
