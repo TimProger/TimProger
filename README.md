@@ -24,7 +24,7 @@ I specialize in creating a single-page application (SPA) using React for the int
 
 
 ## Languages and Tools    
-<table width="100%"><tr width="100%"><td valign="top" width="100%">
+<table style="width: 100%;"><tr width="100%"><td valign="top" width="100%">
 
 - 🔥 Frontend - 
 [JavaScript](https://www.javascript.com/)
