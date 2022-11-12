@@ -90,4 +90,3 @@ I specialize in creating a single-page application (SPA) using React for the int
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
