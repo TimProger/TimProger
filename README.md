@@ -89,7 +89,7 @@ I specialize in creating a single-page application (SPA) using React for the int
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&hide_border=true&layout=compact&theme=dark" align="left" style="width: 50%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
     </td>
   </tr>
 </table>  
