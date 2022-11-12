@@ -87,6 +87,4 @@ I specialize in creating a single-page application (SPA) using React for the int
 <br/>  
 
 
-<br />
-
 ----
