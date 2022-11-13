@@ -15,9 +15,9 @@
 
 
 ### Glad to see you here!  
-I’m a junior full-stack developer and I'm really love coding.
+I’m a junior full-stack developer and I really love coding.
 
-I specialize in creating a single-page application (SPA) using React for the interface and Node.js for the backend. Every day starts with a cup of tea and working on different tasks, such as creating an application for my clients or writing a practical project with new technologies. Every time I write code, I make it clean and scalable by adhering to best practices.  
+I specialize in creating single-page applications (SPA) using React for the frontend and Node.js for the backend. Every day starts with a cup of tea and with working on different tasks, such as creating an application for my clients or on writing my own projects. Every time I write code, I make sure that it's clean and scalable.
   
 
 <br/>  
