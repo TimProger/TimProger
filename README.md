@@ -31,6 +31,7 @@ I specialize in creating single-page applications (SPA) using React for the fron
 [TypeScript](https://www.typescriptlang.org/)
 [React](https://reactjs.org/)
 [Redux](https://redux.js.org/)
+[RTK](https://redux-toolkit.js.org/)
 [Vue](https://vuejs.org/)
 [MaterialUI](https://mui.com/)
 [Bootstrap](https://getbootstrap.com/)
