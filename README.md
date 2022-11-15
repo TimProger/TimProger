@@ -30,6 +30,7 @@ I specialize in creating single-page applications (SPA) using React for the fron
 [JavaScript](https://www.javascript.com/)
 [TypeScript](https://www.typescriptlang.org/)
 [React](https://reactjs.org/)
+[Next](https://nextjs.org/)
 [Redux](https://redux.js.org/)
 [RTK](https://redux-toolkit.js.org/)
 [Vue](https://vuejs.org/)
