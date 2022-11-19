@@ -27,35 +27,35 @@ I specialize in creating single-page applications (SPA) using React for the fron
 <table style="width: 100%;"><tr style="width: 100%;"><td valign="top" width="100%">
 
 - 🔥 Frontend - 
-[JavaScript](https://www.javascript.com/)
-[TypeScript](https://www.typescriptlang.org/)
-[React](https://reactjs.org/)
-[Next](https://nextjs.org/)
-[Redux](https://redux.js.org/)
-[RTK](https://redux-toolkit.js.org/)
-[Vue](https://vuejs.org/)
-[MaterialUI](https://mui.com/)
-[Bootstrap](https://getbootstrap.com/)
-[Tailwind](https://tailwindcss.com/)
-[HTML5](https://html.com/)
+[JavaScript](https://www.javascript.com/) |
+[TypeScript](https://www.typescriptlang.org/) |
+[React](https://reactjs.org/) |
+[Next](https://nextjs.org/) |
+[Redux](https://redux.js.org/) |
+[RTK](https://redux-toolkit.js.org/) |
+[Vue](https://vuejs.org/) |
+[MaterialUI](https://mui.com/) |
+[Bootstrap](https://getbootstrap.com/) |
+[Tailwind](https://tailwindcss.com/) |
+[HTML5](https://html.com/) |
 [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)  
   
 
 - 📝 Backend - 
-[Node.js](https://nodejs.org/en/)
-[Express](https://expressjs.com/)
-[MongoDB](https://www.mongodb.com/)
-[PostgreSQL](https://www.postgresql.org/)
-[MySQL](https://www.mysql.com/)
+[Node.js](https://nodejs.org/en/) |
+[Express](https://expressjs.com/) |
+[MongoDB](https://www.mongodb.com/) |
+[PostgreSQL](https://www.postgresql.org/) |
+[MySQL](https://www.mysql.com/) |
 [Git](https://git-scm.com/)  
   
 
 - 🛠️ Tools - 
-[Postman](https://www.postman.com/)
-[WebStorm](https://www.jetbrains.com/ru-ru/webstorm/)
-[Photoshop](https://www.adobe.com/ru/products/photoshop.html)
-[Illustrator](https://www.adobe.com/ru/products/illustrator.html)
-[Figma](https://www.figma.com/)  
+[Postman](https://www.postman.com/) |
+[WebStorm](https://www.jetbrains.com/ru-ru/webstorm/) |
+[Photoshop](https://www.adobe.com/ru/products/photoshop.html) |
+[Illustrator](https://www.adobe.com/ru/products/illustrator.html) |
+[Figma](https://www.figma.com/)
 
 
 </td></tr></table>  
