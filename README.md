@@ -26,7 +26,7 @@ I specialize in creating single-page applications (SPA) using React for the fron
 ## Languages and Tools    
 <table style="width: 100%;"><tr style="width: 100%;"><td valign="top" width="100%">
 
-- 🔥 Frontend - 
+- 🔥 Front-end - 
 [JavaScript](https://www.javascript.com/) |
 [TypeScript](https://www.typescriptlang.org/) |
 [React](https://reactjs.org/) |
@@ -41,7 +41,7 @@ I specialize in creating single-page applications (SPA) using React for the fron
 [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)  
   
 
-- 📝 Backend - 
+- 📝 Back-end - 
 [Node.js](https://nodejs.org/en/) |
 [Express](https://expressjs.com/) |
 [MongoDB](https://www.mongodb.com/) |
