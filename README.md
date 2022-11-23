@@ -1,8 +1,6 @@
-<div id="header" align="center">
-  <h1>Hey 👋, I'm Timofei Akylveren!</h1>
-</div>
+### Hey 👋, I'm Timofei Akylveren!
 
-<div id="links" align="center">
+<div id="links">
   <a href="https://github.com/TimProger" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
@@ -13,13 +11,9 @@
   <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
   </a>  
 </div>
-
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=TimProger&&style=flat-square" />
-</div>
 <br/>  
 
-<div id="about" align="center">
+<div id="about">
   <h1>Glad to see you here!</h1> 
   <p>I’m a junior full-stack developer and I really love coding.
 
@@ -29,7 +23,7 @@
 <br/>  
 
 
-<div id="skills" align="center">
+<div id="skills">
   <h1>Languages and Tools</h1> 
 <table style="width: 100%;"><tr style="width: 100%;"><td valign="top" width="100%">
 
@@ -72,25 +66,29 @@
 <br/>
  
 
-<div id="stats_header" align="center">
+<div id="stats_header">
   <h1>Github Stats </h1> 
 </div>
 <br/>  
 
-<div id="streak" align="center">
+<div id="streak">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark" />
 </div>
 
 <br>
 
-<div id="stats" align="center">
+<div id="stats">
   <img src="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&theme=dark" />
 </div>
 
 <br>
 
-<div id="langs" align="center">
+<div id="langs">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&layout=compact&theme=dark" />
 </div>
 
 ----
+
+<div id="views">
+  <img src="https://komarev.com/ghpvc/?username=TimProger&&style=flat-square" />
+</div>
