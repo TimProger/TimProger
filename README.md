@@ -26,7 +26,8 @@
 <br/>  
 
 
-## Languages and Tools    
+<div id="links" align="center">
+  <h1>Languages and Tools</h1> 
 <table style="width: 100%;"><tr style="width: 100%;"><td valign="top" width="100%">
 
 - 🔥 Front-end - 
@@ -61,7 +62,9 @@
 [Figma](https://www.figma.com/)
 
 
-</td></tr></table>  
+</td></tr></table> 
+</div>
+<br/>  
 
 <br/>
  
