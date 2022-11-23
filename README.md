@@ -79,7 +79,7 @@
 <br/>  
 
 <div id="links" align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark)](https://git.io/streak-stats)
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark" />
 </div>
 
 <br>
