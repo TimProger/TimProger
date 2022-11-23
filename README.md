@@ -17,6 +17,7 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=TimProger&&style=flat-square" />
 </div>
+<br/>  
 
 <div id="about" align="center">
   <h1>Glad to see you here!</h1> 
