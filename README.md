@@ -14,9 +14,11 @@
   </a>  
 </div>
 
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=TimProger&&style=flat-square" />
+</div>
 
-
-<div id="links" align="center">
+<div id="about" align="center">
   <h1>Glad to see you here!</h1> 
   <p>I’m a junior full-stack developer and I really love coding.
 
@@ -26,7 +28,7 @@
 <br/>  
 
 
-<div id="links" align="center">
+<div id="skills" align="center">
   <h1>Languages and Tools</h1> 
 <table style="width: 100%;"><tr style="width: 100%;"><td valign="top" width="100%">
 
@@ -69,34 +71,25 @@
 <br/>
  
 
-<div id="links" align="center">
+<div id="stats_header" align="center">
   <h1>Github Stats </h1> 
 </div>
 <br/>  
 
-<div id="links" align="center">
+<div id="streak" align="center">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark" />
 </div>
 
 <br>
 
-<div id="links" align="center">
+<div id="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&theme=dark" />
 </div>
 
 <br>
 
-<div id="links" align="center">
+<div id="langs" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&layout=compact&theme=dark" />
 </div>
-
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=TimProger&&style=flat-square)  
-  
-
 
 ----
