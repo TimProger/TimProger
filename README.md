@@ -69,20 +69,30 @@
 <br/>
  
 
+<div id="links" align="center">
+  <h1>Github Stats </h1> 
+  <p>I’m a junior full-stack developer and I really love coding.
 
-## Github Stats  
-
+  I specialize in creating single-page applications (SPA) using React for the frontend and Node.js for the backend. Every day starts with a cup of tea and with working on different tasks, such as creating an application for my clients or on writing my own projects. Every time I write code, I make sure that it's clean and scalable.
+  </p>
+</div>
 <br/>  
 
+<div id="links" align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark)](https://git.io/streak-stats)
+</div>
 
 <br>
 
+<div id="links" align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <br>
 
+<div id="links" align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&theme=dark)
+</div>
 
 
   
