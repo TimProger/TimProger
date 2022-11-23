@@ -1,4 +1,4 @@
-### Hey 👋, I'm Timofei Akylveren!
+## Hey 👋, I'm Timofei Akylveren!
 
 <div id="links">
   <a href="https://github.com/TimProger" target="_blank">
