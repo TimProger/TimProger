@@ -34,6 +34,7 @@
 [Next](https://nextjs.org/) |
 [Redux](https://redux.js.org/) |
 [RTK](https://redux-toolkit.js.org/) |
+[i18next](https://www.i18next.com) |
 [Vue](https://vuejs.org/) |
 [MaterialUI](https://mui.com/) |
 [Bootstrap](https://getbootstrap.com/) |
