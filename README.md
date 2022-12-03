@@ -74,8 +74,8 @@
 
 <div id="streak">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w2.png](http://github-readme-streak-stats.herokuapp.com?user=TimProger)">
-        <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b2.png](http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark)">
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=TimProger">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark" />
       </picture>
 </div>
