@@ -76,6 +76,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=TimProger">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark" />
     </picture>
 </div>
 
