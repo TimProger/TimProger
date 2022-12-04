@@ -100,8 +100,6 @@
     </picture>
 </div>
 
----
-
 <div id="views">
   <img src="https://komarev.com/ghpvc/?username=TimProger&&style=flat-square" />
 </div>
