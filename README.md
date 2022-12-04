@@ -64,9 +64,6 @@
 </div>
 <br/>  
 
-<br/>
- 
-
 <div id="stats_header">
   <h1>Github Stats </h1> 
 </div>
