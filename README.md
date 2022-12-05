@@ -71,7 +71,7 @@
 
 <div id="streak">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark">
+      <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=react">
       <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=TimProger">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=TimProger&theme=dark" />
     </picture>
@@ -81,7 +81,7 @@
 
 <div id="stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&theme=dark">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&theme=react">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true">
       <img src="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&theme=dark" />
     </picture>
@@ -91,7 +91,7 @@
 
 <div id="langs">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&layout=compact&theme=dark">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&layout=compact&theme=react">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&layout=compact">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimProger&layout=compact&theme=dark" />
     </picture>
