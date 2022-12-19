@@ -2,6 +2,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <p align="center">
+  <a href="mailto:akylverentimofei@gmail.com">Gmail</a> -
   <a href="https://codepen.com/timakyl">CodePen</a> -
   <a href="https://t.me/timataak">Telegram</a>
 </p>
