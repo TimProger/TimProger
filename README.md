@@ -9,7 +9,7 @@
 <br/>
 
 <div id="about">
-  <h1>Glad to see you here!</h1> 
+  <h2>Glad to see you here!</h1> 
   <p>I’m a junior full-stack developer and I really love coding.
 
   I specialize in creating single-page applications (SPA) using Next for the frontend and Node for the backend. Every day starts with a cup of tea and with working on different tasks, such as creating an application for my clients or on writing my own projects. Every time I write code, I make sure that it's clean and scalable.
