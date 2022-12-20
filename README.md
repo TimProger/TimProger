@@ -19,7 +19,7 @@
 
 
 <div id="skills">
-  <h1>Languages and Tools</h1> 
+  <h2>Languages and Tools</h1> 
 <table style="width: 100%;"><tr style="width: 100%;"><td valign="top" width="100%">
 
 - 🔥 Front-end - 
@@ -60,7 +60,7 @@
 <br/>  
 
 <div id="stats_header">
-  <h1>Github Stats </h1> 
+  <h2>Github Stats </h1> 
 </div>
 <br/>  
 
