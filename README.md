@@ -80,6 +80,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true">
       <img src="https://github-readme-stats.vercel.app/api?username=TimProger&show_icons=true&theme=dark" />
     </picture>
+  
 </div>
 
 <br>
