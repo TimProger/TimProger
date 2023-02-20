@@ -28,14 +28,12 @@
 [JavaScript](https://www.javascript.com/) |
 [TypeScript](https://www.typescriptlang.org/) |
 [React](https://reactjs.org/) |
+[Webpack](https://webpack.js.org/) |
 [Next](https://nextjs.org/) |
 [Redux](https://redux.js.org/) |
 [RTK](https://redux-toolkit.js.org/) |
 [i18next](https://www.i18next.com) |
 [Vue](https://vuejs.org/) |
-[MaterialUI](https://mui.com/) |
-[Bootstrap](https://getbootstrap.com/) |
-[Tailwind](https://tailwindcss.com/) |
 [HTML5](https://html.com/) |
 [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)  
   
