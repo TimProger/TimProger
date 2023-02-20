@@ -10,8 +10,7 @@
 
 <div id="about">
   <h2>Glad to see you here!</h1> 
-  <p>Here is some things about me:</p>
-  <p>👋 I'm Timofei, a Junior React Developer who's passionate about coding and building great user experiences.</p>
+  <p>Here is some facts about me:</p>
   <br/>
   <p>💻 I love working with React and building dynamic, interactive applications that help people get things done. Whether I'm working on a personal project or contributing to an open-source repository, I'm always looking for ways to improve my skills and learn new things.</p>
 <br/>
