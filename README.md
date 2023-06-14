@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Timofei Akylveren
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42" width="32"/>
 </h1>
 <p align="center">
   <a href="mailto:akylverentimofei@gmail.com">Gmail</a> -
