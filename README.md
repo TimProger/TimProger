@@ -13,7 +13,7 @@
   <p>Here is some facts about me:</p>
   <p>💻 I love working with React and building dynamic, interactive applications that help people get things done. Whether I'm working on a personal project or contributing to an open-source repository, I'm always looking for ways to improve my skills and learn new things.</p>
 <br/>
-<p>🌱 As a Junior Developer, I'm eager to take on new challenges and work with experienced mentors who can help me grow. I'm a quick learner and a hard worker, and I'm always willing to roll up my sleeves and tackle whatever tasks come my way.</p>
+<p>🌱 As a Junior+ Developer, I'm eager to take on new challenges and work with experienced mentors who can help me grow. I'm a quick learner and a hard worker, and I'm always willing to roll up my sleeves and tackle whatever tasks come my way.</p>
 <br/>
 <p>📫 If you'd like to connect, feel free to drop me a message. I'm always excited to meet new people in the development community and learn from their experiences.</p>
 </div>
