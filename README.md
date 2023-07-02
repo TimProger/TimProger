@@ -15,7 +15,7 @@
 <br/>
 <p>🌱 As a Junior Developer, I'm eager to take on new challenges and work with experienced mentors who can help me grow. I'm a quick learner and a hard worker, and I'm always willing to roll up my sleeves and tackle whatever tasks come my way.</p>
 <br/>
-<p>📫 If you'd like to connect, feel free to drop me a message or check out my portfolio at [Your Portfolio URL]. I'm always excited to meet new people in the development community and learn from their experiences.</p>
+<p>📫 If you'd like to connect, feel free to drop me a message. I'm always excited to meet new people in the development community and learn from their experiences.</p>
 </div>
 <br/>  
 
