@@ -4,7 +4,8 @@
 <p align="center">
   <a href="mailto:akylverentimofei@gmail.com">Gmail</a> -
   <a href="https://codepen.com/timakyl">CodePen</a> -
-  <a href="https://t.me/timataak">Telegram</a>
+  <a href="https://t.me/timataak">Telegram</a> -
+  <a href="https://www.instagram.com/timofei_akylveren/">Instagram</a>
 </p>
 <br/>
 
