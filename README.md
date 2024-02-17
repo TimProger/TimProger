@@ -1,13 +1,13 @@
-<h1 align="center">Hi there, I'm Timofei Akylveren
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42" width="42"/>
-</h1>
-<p align="center">I'm a junior front-end developer.</p>
 <p align="center">
   <a href="mailto:akylverentimofei@gmail.com">Gmail</a> -
   <a href="https://codepen.com/timakyl">CodePen</a> -
   <a href="https://t.me/timataak">Telegram</a> -
   <a href="https://www.instagram.com/timofei_akylveren/">Instagram</a>
 </p>
+<h1 align="center">Hi there, I'm Timofei Akylveren
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42" width="42"/>
+</h1>
+<p align="center">I'm a 20-year-old junior front-end developer specializing in building user-friendly websites. With experience in several commercial projects, I strive to combine creativity with functionality to solve any problem in the most effective and scalable way possible.</p>
 <br/>
 
 <div id="skills">
