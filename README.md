@@ -23,7 +23,6 @@
 [Redux](https://redux.js.org/) |
 [RTK](https://redux-toolkit.js.org/) |
 [i18next](https://www.i18next.com) |
-[Vue](https://vuejs.org/) |
 [HTML5](https://html.com/) |
 [CSS3](https://www.w3.org/Style/CSS/Overview.en.html)  
   
@@ -31,6 +30,7 @@
 - 📝 Back-end - 
 [Node.js](https://nodejs.org/en/) |
 [Express](https://expressjs.com/) |
+[Nest](https://nestjs.com/) |
 [MongoDB](https://www.mongodb.com/) |
 [PostgreSQL](https://www.postgresql.org/) |
 [MySQL](https://www.mysql.com/) |
