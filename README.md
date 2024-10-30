@@ -1,8 +1,6 @@
 <p align="center">
   <a href="mailto:akylverentimofei@gmail.com">Gmail</a> -
-  <a href="https://codepen.com/timakyl">CodePen</a> -
   <a href="https://t.me/timataak">Telegram</a> -
-  <a href="https://www.instagram.com/timofei_akylveren/">Instagram</a>
 </p>
 <h1 align="center">Hi there, I'm Timofei Akylveren
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="42" width="42"/>
